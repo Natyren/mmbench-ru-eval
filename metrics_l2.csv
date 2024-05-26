@@ -1,0 +1,7 @@
+l2-category,accuracy
+attribute_reasoning,0.2718168812589413
+coarse_perception,0.26624548736462095
+finegrained_perception (cross-instance),0.2682926829268293
+finegrained_perception (instance-level),0.25906277630415564
+logic_reasoning,0.28292682926829266
+relation_reasoning,0.25900900900900903
