@@ -10,4 +10,4 @@ python3 evaluate.py --path <path_to_your_predictions> --aggregate <type_of_sourc
 
 ## Prerequisite
 
-File that you want to evaluate must have and extra column "predict" with model predictions
+File that you want to evaluate must have an extra column "predict" with model predictions
